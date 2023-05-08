@@ -1,2 +1,2 @@
 # gym
- An gym aim application
+ This application written in flutter. This is developed for android/arm.
