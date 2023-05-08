@@ -1,2 +1,2 @@
 # gym
- An gym application
+ An gym aim application
